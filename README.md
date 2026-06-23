@@ -1,8 +1,9 @@
 # 2026-thinkmg-brand-guidelines
 
 <p align="center">
-  <img src="assets/images/logo-text.png" alt="Thiink Media Graphics Logo" width="600">
+  <img src="assets/images/logo-icon.png" alt="Thiink Logo Monogram" width="150">
 </p>
+
 
 <p align="center">
   <a href="https://www.thiinkmediagraphics.com/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.thiinkmediagraphics.com%2F&label=website&logo=googlechrome&logoColor=white&color=bfa15f" alt="Website Status"></a>
@@ -34,7 +35,7 @@ We believe that design is not just about aesthetics—it is about **communicatio
 * **End-to-End Creative Partnering:** From the initial concept art to the final interactive website, we align every pixel with your brand’s core message.
 
 <p align="center">
-  <img src="assets/images/logo-icon.png" alt="Thiink Logo Icon" width="120">
+  <img src="assets/images/logo-text.png" alt="Thiink Media Graphics Logo" width="600">
 </p>
 
 ---
