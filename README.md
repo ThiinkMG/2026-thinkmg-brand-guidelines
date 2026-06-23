@@ -1,7 +1,7 @@
 # 2026-thinkmg-brand-guidelines
 
 <p align="center">
-  <img src="assets/images/logo-icon.png" alt="Thiink Logo Monogram" width="200">
+  <img src="assets/images/logo-icon.png" alt="Thiink Media Graphics Full Logo" width="80%">
 </p>
 
 
@@ -35,7 +35,7 @@ We believe that design is not just about aesthetics—it is about **communicatio
 * **End-to-End Creative Partnering:** From the initial concept art to the final interactive website, we align every pixel with your brand’s core message.
 
 <p align="center">
-  <img src="assets/images/logo-text.png" alt="Thiink Media Graphics Logo" width="55%">
+  <img src="assets/images/logo-text.png" alt="Thiink Logo Monogram" width="120px">
 </p>
 
 ---
